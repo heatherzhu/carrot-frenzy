@@ -20,6 +20,26 @@ Use SELECT to return to the start screen
 
 Use R to activate the cheat: Gain 1000 shoes!
 
+Make sure to check your inputs to see what the keyboard equivalent of each button is. The default from Game Boy controls to keyboard should be:
+
+UP: W
+
+DOWN: S
+
+LEFT: A
+
+RIGHT: D
+
+A: L
+
+B: K
+
+START: ENTER
+
+SELECT: BACK
+
+R: O
+
 ## Download Instructions
 
 1. Download Docker Desktop https://www.docker.com/get-started
