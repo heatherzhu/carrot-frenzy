@@ -52,7 +52,7 @@ R: O
 4. Within the carrot-frenzy folder, go to the Carrot Frenzy folder, then the .vscode folder (it's a hidden folder), and open tasks.json
 5. Replace my path with your own path to visualboyadvance-m.app if you're on Mac, or the exe version if you're on Windows (if you're on Windows, make sure that you use forward slashes!)
 6. WINDOWS ONLY: Delete "open" before your path.
-7. In the folder "Carrot Frenzy", run Project.gba, and you should be able to play!
+7. In the folder "Carrot Frenzy", run Project.gba with visualboyadvance-m, and you should be able to play!
 
 ## Credits
 #### The Spriter's Resource
